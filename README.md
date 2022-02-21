@@ -1,5 +1,9 @@
 # Repositório dos projetos desenvolvidos na Market Celulares
 
 Projetos
- 1 - Planilha de controle de orçamentos
- 2 - Programa em python para automação de impressões
+ BI - Arquivos do projeto de Bussines Inteligence
+ 
+ ORCAMENTOS - Arquivos refentes a projetos de Orçamentos
+ --> ORCAMENTOS.xlsx - Planilha para controle de orçamentos
+ --> impressao.py - Script em Python para impressão automática de orçamentos realizados
+ --> imprimirOrcamento.bat - Arquivo .bat para executar script
