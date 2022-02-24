@@ -2,7 +2,7 @@
 
 ## PROJETOS
  ### BI - Arquivos do projeto de Bussines Inteligence
-- Criação de dashboards para análise do negócio
+- Criação de dashboards em PowerBI para análise do negócio
  ### ORCAMENTOS - Arquivos refentes a projetos de Orçamentos
  - ORCAMENTOS.xlsx - Planilha para controle de orçamentos
  - impressao.py - Script em Python para impressão automática de orçamentos realizados
